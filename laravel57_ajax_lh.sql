@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 20, 2020 at 11:44 AM
+-- Generation Time: Sep 09, 2020 at 08:20 PM
 -- Server version: 10.1.40-MariaDB
 -- PHP Version: 7.3.5
 
@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `lv57_ajax_lh`
+-- Database: `laravel57_ajax_lh`
 --
 
 -- --------------------------------------------------------
@@ -47,7 +47,7 @@ INSERT INTO `contacts` (`id`, `name`, `phone`, `email`, `religion`, `created_at`
 (2, 'M Sakibur Rahaman', '01998765432', 'sakib@mail.com', 'Islam', NULL, NULL),
 (3, 'Michael Scofield', '01228765432', 'microfiel@mail.com', 'Christian', '2020-07-19 04:53:30', '2020-07-19 04:53:30'),
 (6, 'Warren Buffett', '01228765432', 'buffett@mail.com', 'Christian', '2020-07-20 03:39:20', '2020-07-20 03:39:20'),
-(7, 'Trisha Krishnan', '01228765432', 'trisha@mail.com', 'Hindu', '2020-07-20 03:41:23', '2020-07-20 03:41:23'),
+(7, 'Trisha Krishnan', '01228765432', 'trisha@mail.com', 'Hindu', '2020-07-20 03:41:23', '2020-07-20 03:45:02'),
 (8, 'Chris Hemsworth', '01228765432', 'chris@mail.com', 'Christian', '2020-07-20 03:43:04', '2020-07-20 03:43:04');
 
 -- --------------------------------------------------------
